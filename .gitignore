@@ -1,0 +1,16 @@
+# Visual Studio build and cache artifacts
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.lastbuildstate
+*.idb
+*.log
+*.VC.db
+*.opendb

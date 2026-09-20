@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Win32" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="alg3lr/alg3lr.vcxproj" Id="9d999cca-ad17-4bae-8687-390026a0e8c9" />
+</Solution>
