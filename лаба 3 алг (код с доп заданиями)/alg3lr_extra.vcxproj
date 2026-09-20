@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{EB9612B4-648F-4967-B831-154C37C837FB}</ProjectGuid>
-    <RootNamespace>alg3lr_с_доп_заданиями</RootNamespace>
+    <ProjectGuid>{EB9612B4-4B28-44BC-8F79-34EB530F6C6C}</ProjectGuid>
+    <RootNamespace>alg3lr_extra</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
